@@ -1,5 +1,5 @@
 ## Experiment-no-6-DC-Motor-Speed-Control-Using-Arduino
-###  DATE: 05-04-2024
+###  DATE: 08-04-2024
 ###  NAME: HEMADHARSHINI M
 ###  ROLL NO : 212222040053
 ###  DEPARTMENT: BE CSE
